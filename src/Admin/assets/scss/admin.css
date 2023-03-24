@@ -1,0 +1,171 @@
+.ad-wrapper {
+  position: relative;
+  top: 0;
+  height: 100vh;
+}
+
+.ad-wrapper .ad-sidebar {
+  position: fixed;
+  top: 0;
+  height: 100%;
+  bottom: 0;
+  width: 260px;
+  left: 0;
+  z-index: 1030;
+  border-right: 1px solid #ddd;
+  background-color: #212120;
+}
+
+.ad-wrapper .ad-sidebar .logo {
+  position: relative;
+  padding: 7px .7rem;
+  z-index: 4;
+}
+
+.ad-wrapper .ad-sidebar .sidebar-wrapper {
+  position: relative;
+  height: calc(100vh - 75px);
+  overflow: auto;
+  width: 260px;
+  z-index: 4;
+  padding-bottom: 100px;
+}
+
+.ad-wrapper .ad-sidebar .sidebar-wrapper .nav {
+  margin-top: 20px;
+  display: block;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.ad-wrapper .ad-sidebar .sidebar-wrapper .nav li .navlink {
+  margin: 10px 15px 0;
+  color: #fff;
+  display: block;
+  text-decoration: none;
+  position: relative;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-size: 12px;
+  padding: 10px 8px;
+  line-height: 30px;
+  opacity: .7;
+}
+
+.ad-wrapper .ad-mainpanel {
+  position: relative;
+  float: right;
+  width: calc(100% - 260px);
+  background-color: #f4f3ef;
+  -webkit-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);
+  transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);
+}
+
+.ad-wrapper .ad-mainpanel .content {
+  padding: 0 30px 30px;
+  min-height: calc(100vh - 13px);
+  margin-top: 30px;
+}
+
+.ad-wrapper .ad-mainpanel .content .card {
+  border-radius: 12px;
+  -webkit-box-shadow: 0 6px 10px -4px #cecdcd;
+          box-shadow: 0 6px 10px -4px #cecdcd;
+  background-color: #fff;
+  color: #252422;
+  margin-bottom: 35px;
+  position: relative;
+  padding-bottom: 20px;
+  border: 0;
+  transition: box-shadow 0.2s ease, -webkit-transform 0.3s cubic-bezier(0.34, 2, 0.6, 1);
+  -webkit-transition: -webkit-transform 0.3s cubic-bezier(0.34, 2, 0.6, 1), -webkit-box-shadow 0.2s ease;
+  transition: -webkit-transform 0.3s cubic-bezier(0.34, 2, 0.6, 1), -webkit-box-shadow 0.2s ease;
+  transition: transform 0.3s cubic-bezier(0.34, 2, 0.6, 1), box-shadow 0.2s ease;
+  transition: transform 0.3s cubic-bezier(0.34, 2, 0.6, 1), box-shadow 0.2s ease, -webkit-transform 0.3s cubic-bezier(0.34, 2, 0.6, 1), -webkit-box-shadow 0.2s ease;
+  transition: transform 0.3s cubic-bezier(0.34, 2, 0.6, 1), box-shadow 0.2s ease, -webkit-transform 0.3s cubic-bezier(0.34, 2, 0.6, 1);
+}
+
+.ad-wrapper .ad-mainpanel .content .card .card-header {
+  padding: 15px 25px 0;
+  border: 0;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  background: #fff;
+  border-bottom: 1px solid #e7e5e5;
+  border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;
+}
+
+.ad-wrapper .ad-mainpanel .content .card .card-header .card-title {
+  color: #000;
+  margin-top: 0px;
+  font-size: 18px;
+}
+
+.ad-wrapper .ad-mainpanel .content .card .card-header .card-subtitle {
+  color: #9a9a9a;
+  font-size: 14px;
+}
+
+.ad-wrapper .ad-mainpanel .content .card .card-body {
+  padding: 0px 25px;
+}
+
+.ad-wrapper .ad-mainpanel .content .table > :not(:last-child) > :last-child > * {
+  border-bottom-color: #d4cbcb;
+}
+
+.ad-wrapper .ad-mainpanel .content .table-custom th {
+  font-size: 15px;
+  color: #212121 !important;
+}
+
+.ad-wrapper .ad-mainpanel .content .table-custom td {
+  font-size: 15px;
+}
+
+.headmenu.navbar-dark .navbar-nav .nav-link {
+  color: #020202 !important;
+  font-size: 15px;
+}
+
+.headmenu.navbar-dark {
+  background: #fff;
+  -webkit-box-shadow: 0px 0px 10px #dfdfdf;
+          box-shadow: 0px 0px 10px #dfdfdf;
+}
+
+.btn-admin {
+  color: #fff;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.35em;
+  text-transform: uppercase;
+  border: none !important;
+  border-radius: 4px !important;
+  padding: 8px 22px !important;
+  cursor: pointer;
+  background-color: #5fcbcf !important;
+  color: #fff;
+  -webkit-transition: all .15s linear;
+  transition: all .15s linear;
+  cursor: pointer;
+  outline: none !important;
+}
+
+.red-clr {
+  background-color: #ed6e47 !important;
+}
+
+.grn-clr {
+  background-color: #1f8405 !important;
+}
+
+.mr10 {
+  margin-right: 10px;
+}
+
+.mt25 {
+  margin-top: 25px;
+}
+/*# sourceMappingURL=admin.css.map */

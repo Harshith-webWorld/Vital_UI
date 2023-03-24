@@ -1,0 +1,101 @@
+export interface mfPositiveInterface {
+  id: number;
+  year: any;
+  month: any;
+  districtId: any;
+  corporationId: any;
+  talukaId: any;
+  facilityId: any;
+  subCenterId: any;
+  villageId: any;
+  zoneId: any;
+  town: string;
+  area: string;
+  totalPopulationVillage: any;
+  totalNoOfHousesInArea: any;
+  unitOfAction: any;
+  nameOfUnit: any;
+  bsCollectionAntigenTest: number;
+  nameOfFilariaFieldUnit: any;
+  populationCoveredByUnit: any;
+  targetForCollectionOfNBS: any;
+  fixOrRandom: number;
+  noOfBSFoundPositive: any;
+  createdBy?: number;
+  lastModifiedBy?: number;
+  nameOfEU: string;
+  nameOfEA: string;
+}
+
+export interface positiveSurveyData {
+  id?: number;
+  mfPositiveLineListId?: any;
+  detailsOfSurveyId: any;
+  noOfPersonsMale0to4: any;
+  noOfPersonsMale5to14: any;
+  noOfPersonsMale15to39: any;
+  noOfPersonsMale40Plus: any;
+  noOfPersonsFemale0to4: any;
+  noOfPersonsFemale5to14: any;
+  noOfPersonsFemale15to39: any;
+  noOfPersonsFemale40Plus: any;
+  noOfPersonsTG0to4: any;
+  noOfPersonsTG5to14: any;
+  noOfPersonsTG15to39: any;
+  noOfPersonsTG40Plus: any;
+  dateOfAction: string;
+  createdBy?: number;
+  lastModifiedBy?: number;
+}
+export interface positivePatients {
+  id?: number;
+  mfPositiveLineListId?: number;
+  bsNumber: string;
+  patientName: string;
+  patientRegistrationDate: string;
+  headOfFamily: string;
+  ageYears: number;
+  ageMonths: number;
+  gender: number;
+  patientId?: string;
+  patientPhoneNo: string;
+  dateOfCollection: string;
+  dateOfExamination: string;
+  nameOfEU: string;
+  nameOfEA: string;
+  nameOfSchool: string;
+  isMigrationHistory: string;
+  nameOfVillagTown: string;
+  nameOfDistrictState: string;
+  ageFromYears: number;
+  ageFromMonths: number;
+  ageFromDays: number;
+  ageToYears: number;
+  ageToMonths: number;
+  ageToDays: number;
+  mfCount: any;
+  isTreatmentGive: string;
+  noOfDECTabletsGiven: any;
+  dateOfTreatmentStarted: string;
+  reasonsForNonTreating: number;
+  reasonOthers: string;
+  nameOfDrugAdmin: string;
+  designation: string;
+  phoneNoOfDrugAdmin: string;
+  createdBy?: number;
+  lastModifiedBy?: number;
+}
+export interface positiveFollowup {
+  id?: number;
+  mfPositiveLineListPatientId: any;
+  followUpYear: number;
+  followUpDate: string;
+  result: string;
+  noOfDECTabletsGiven: any;
+  noOfDECTabletsConsumed: any;
+  nameOfDrugAdmin: string;
+  designation: string;
+  phoneNoOfDrugAdmin: string;
+  createdBy?: number;
+  lastModifiedBy?: number;
+}

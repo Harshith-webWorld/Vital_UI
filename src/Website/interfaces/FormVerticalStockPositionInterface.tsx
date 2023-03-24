@@ -1,0 +1,35 @@
+export interface VerticalStockPosition {
+  id?: any;
+  year: string;
+  month: any;
+  stateId: any;
+  districtId: string;
+  unitType: string;
+  unitName: string;
+  items: string;
+  otherItem: string;
+  measurement: string;
+  openingBalanceBatchNo: string;
+  openingBalanceMFDate?: string;
+  openingBalanceExpiryDate?: string;
+  openingBalanceQty: any;
+  receivedDuringMonthBatchNo: string;
+  receivedDuringMonthMFDate?: string;
+  receivedDuringMonthExpiryDate?: string;
+  receivedDuringMonthQty: any;
+  receivedFromWhom: string;
+  receivedFromDistricts: number;
+  receivedFromWhomOthers: string;
+  totalStock: any;
+  actualConsumption: any;
+  issueToOtherBatchNo: string;
+  issueToOtherMFDate?: string;
+  issueToOtherExpiryDate?: string;
+  issueToOtherQty: any;
+  issuedToWhom: string;
+  balanceEndOfMonth: any;
+  reqNext3MonthsQty: any;
+  isActive?: boolean;
+  createdBy?: number;
+  lastModifiedBy?: number;
+}

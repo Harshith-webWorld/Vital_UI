@@ -1,0 +1,18 @@
+export interface WebsiteMDAIECActivity {
+        year:any,
+        month:any,
+        stateId:any,
+        districtId:any,
+        materialActivity:any,
+        otherMaterial:any,
+        materialActivityNo:any,
+        materialActivityCostInRs:any,
+        statementOfFundsAllotted:number,
+        dateDistrictCoordComitte:any,
+        fundAllocatedWithDate:any,
+        fundUtilisedWithDate:any,
+        fundBalanceAfterRound:any,
+        isActive:Boolean,
+        createdBy?: number,
+        lastModifiedBy?: number,
+}

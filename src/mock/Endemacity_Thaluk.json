@@ -1,0 +1,146 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "talukaId": 8,
+      "talukaName": "Akola",
+      "mapTalukaId": "04201",
+      "districtId": 1,
+      "mapDistrictId": "522",
+      "NoOfLFCases": 200,
+      "NoOfHydroceleCases": 291,
+      "NoMFPosetive": 677
+    },
+    {
+      "talukaId": 122,
+      "talukaName": "Jamkhed",
+      "mapTalukaId": "04214",
+      "districtId": 1,
+      "mapDistrictId": "522",
+      "NoOfLFCases": 678,
+      "NoOfHydroceleCases": 234,
+      "NoMFPosetive": 123
+    },
+    {
+      "talukaId": 146,
+      "talukaName": "Karjat",
+      "mapTalukaId": "04213",
+      "districtId": 1,
+      "mapDistrictId": "522",
+      "NoOfLFCases": 20,
+      "NoOfHydroceleCases": 345,
+      "NoMFPosetive": 456
+    },
+    {
+      "talukaId": 162,
+      "talukaName": "Kopargaon",
+      "mapTalukaId": "04203",
+      "districtId": 1,
+      "mapDistrictId": "522",
+      "NoOfLFCases": 567,
+      "NoOfHydroceleCases": 678,
+      "NoMFPosetive": 789
+    },
+    {
+      "talukaId": 217,
+      "talukaName": "Nagar",
+      "mapTalukaId": "04209",
+      "districtId": 1,
+      "mapDistrictId": "522",
+      "NoOfLFCases": 890,
+      "NoOfHydroceleCases": 90,
+      "NoMFPosetive": 0
+    },
+    {
+      "talukaId": 231,
+      "talukaName": "Nevasa",
+      "mapTalukaId": "04206",
+      "districtId": 1,
+      "mapDistrictId": "522",
+      "NoOfLFCases": 12,
+      "NoOfHydroceleCases": 23,
+      "NoMFPosetive": 34
+    },
+    {
+      "talukaId": 246,
+      "talukaName": "Parner",
+      "mapTalukaId": "04211",
+      "districtId": 1,
+      "mapDistrictId": "522",
+      "NoOfLFCases": 678,
+      "NoOfHydroceleCases": 123,
+      "NoMFPosetive": 90
+    },
+    {
+      "talukaId": 251,
+      "talukaName": "Pathardi",
+      "mapTalukaId": "04208",
+      "districtId": 1,
+      "mapDistrictId": "522",
+      "NoOfLFCases": 2,
+      "NoOfHydroceleCases": 6,
+      "NoMFPosetive": 0
+    },
+    {
+      "talukaId": 267,
+      "talukaName": "Rahta",
+      "mapTalukaId": "04204",
+      "districtId": 1,
+      "mapDistrictId": "522",
+      "NoOfLFCases": 124,
+      "NoOfHydroceleCases": 345,
+      "NoMFPosetive": 987
+    },
+    {
+      "talukaId": 268,
+      "talukaName": "Rahuri",
+      "mapTalukaId": "04210",
+      "districtId": 1,
+      "mapDistrictId": "522",
+      "NoOfLFCases": 778,
+      "NoOfHydroceleCases": null,
+      "NoMFPosetive": null
+    },
+    {
+      "talukaId": 285,
+      "talukaName": "Sangamner",
+      "mapTalukaId": "04202",
+      "districtId": 1,
+      "mapDistrictId": "522",
+      "NoOfLFCases": 89,
+      "NoOfHydroceleCases": 12,
+      "NoMFPosetive": 879
+    },
+    {
+      "talukaId": 298,
+      "talukaName": "Shevgaon",
+      "mapTalukaId": "04207",
+      "districtId": 1,
+      "mapDistrictId": "522",
+      "NoOfLFCases": 123,
+      "NoOfHydroceleCases": 123,
+      "NoMFPosetive": 45
+    },
+    {
+      "talukaId": 305,
+      "talukaName": "Shrigonda",
+      "mapTalukaId": "04212",
+      "districtId": 1,
+      "mapDistrictId": "522",
+      "NoOfLFCases": 76,
+      "NoOfHydroceleCases": 12,
+      "NoMFPosetive": 997
+    },
+    {
+      "talukaId": 306,
+      "talukaName": "Shrirampur",
+      "mapTalukaId": "04205",
+      "districtId": 1,
+      "mapDistrictId": "522",
+      "NoOfLFCases": 456,
+      "NoOfHydroceleCases": 786,
+      "NoMFPosetive": 543
+    }
+  ],
+  "message": "Success"
+}

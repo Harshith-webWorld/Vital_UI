@@ -1,0 +1,30 @@
+.leaflet-container{
+    /*background-color: #0D9206;DAF2CC*/
+    background-color: #ffffff;
+}
+.whole-wrapper {
+    display: flex;
+    flex-flow: row nowrap;
+}
+.map-wrapper {
+    flex: 0.75;
+}
+.map-wrapper_ {
+    flex: 1;
+}
+.box-wrapper{
+    flex:0.25;
+    margin-left: 20px;
+}
+.radio-wrapper{
+    display: flex;
+    flex-flow: column;
+}
+
+.leaflet-tooltip {
+    border-color: transparent;
+    border-width: 2px;
+    background-color: transparent;
+    box-shadow: none;
+    font-size: 10;
+  }

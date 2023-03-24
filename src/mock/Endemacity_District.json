@@ -1,0 +1,294 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "districtId": 1,
+      "districtName": "Ahmadnagar",
+      "mapDistrictId": "522",
+      "NoOfLFCases": 1,
+      "NoOfHydroceleCases": 475,
+      "NoMFPosetive": 989
+    },
+    {
+      "districtId": 2,
+      "districtName": "Akola",
+      "mapDistrictId": "501",
+      "NoOfLFCases": 2,
+      "NoOfHydroceleCases": 892,
+      "NoMFPosetive": 123
+    },
+    {
+      "districtId": 3,
+      "districtName": "Amravati",
+      "mapDistrictId": "503",
+      "NoOfLFCases": 300,
+      "NoOfHydroceleCases": 433,
+      "NoMFPosetive": 78
+    },
+    {
+      "districtId": 4,
+      "districtName": "Aurangabad",
+      "mapDistrictId": "515",
+      "NoOfLFCases": 476,
+      "NoOfHydroceleCases": 122,
+      "NoMFPosetive": 78
+    },
+    {
+      "districtId": 5,
+      "districtName": "Bid",
+      "mapDistrictId": "523",
+      "NoOfLFCases": 987,
+      "NoOfHydroceleCases": 321,
+      "NoMFPosetive": 22
+    },
+    {
+      "districtId": 6,
+      "districtName": "Bhandara",
+      "mapDistrictId": "500",
+      "NoOfLFCases": 567,
+      "NoOfHydroceleCases": 343,
+      "NoMFPosetive": 566
+    },
+    {
+      "districtId": 7,
+      "districtName": "Buldana",
+      "mapDistrictId": "506",
+      "NoOfLFCases": 569,
+      "NoOfHydroceleCases": 9,
+      "NoMFPosetive": 33
+    },
+    {
+      "districtId": 8,
+      "districtName": "Chandrapur",
+      "mapDistrictId": "509",
+      "NoOfLFCases": 909,
+      "NoOfHydroceleCases": 1,
+      "NoMFPosetive": 2
+    },
+    {
+      "districtId": 9,
+      "districtName": "Dhule",
+      "mapDistrictId": "498",
+      "NoOfLFCases": 111,
+      "NoOfHydroceleCases": 424,
+      "NoMFPosetive": 23
+    },
+    {
+      "districtId": 10,
+      "districtName": "Gadchiroli",
+      "mapDistrictId": "508",
+      "NoOfLFCases": 907,
+      "NoOfHydroceleCases": 455,
+      "NoMFPosetive": 2
+    },
+    {
+      "districtId": 11,
+      "districtName": "Gondiya",
+      "mapDistrictId": "507",
+      "NoOfLFCases": 200,
+      "NoOfHydroceleCases": 67,
+      "NoMFPosetive": 44
+    },
+    {
+      "districtId": 12,
+      "districtName": "Hingoli",
+      "mapDistrictId": "512",
+      "NoOfLFCases": 900,
+      "NoOfHydroceleCases": 54,
+      "NoMFPosetive": 33
+    },
+    {
+      "districtId": 13,
+      "districtName": "Jalgaon",
+      "mapDistrictId": "499",
+      "NoOfLFCases": 665,
+      "NoOfHydroceleCases": 543,
+      "NoMFPosetive": 2
+    },
+    {
+      "districtId": 14,
+      "districtName": "Jalna",
+      "mapDistrictId": "514",
+      "NoOfLFCases": 5,
+      "NoOfHydroceleCases": 45,
+      "NoMFPosetive": 564
+    },
+    {
+      "districtId": 15,
+      "districtName": "Kolhapur",
+      "mapDistrictId": "530",
+      "NoOfLFCases": 897,
+      "NoOfHydroceleCases": 322,
+      "NoMFPosetive": 3
+    },
+    {
+      "districtId": 16,
+      "districtName": "Latur",
+      "mapDistrictId": "524",
+      "NoOfLFCases": 16,
+      "NoOfHydroceleCases": 55,
+      "NoMFPosetive": 4
+    },
+    {
+      "districtId": 17,
+      "districtName": "Mumbai",
+      "mapDistrictId": "519",
+      "NoOfLFCases": 334,
+      "NoOfHydroceleCases": 44,
+      "NoMFPosetive": 2
+    },
+    {
+      "districtId": 18,
+      "districtName": "Mumbai (Suburban) *",
+      "mapDistrictId": "518",
+      "NoOfLFCases": 232,
+      "NoOfHydroceleCases": 1,
+      "NoMFPosetive": 4
+    },
+    {
+      "districtId": 19,
+      "districtName": "Nagpur",
+      "mapDistrictId": "505",
+      "NoOfLFCases": 234,
+      "NoOfHydroceleCases": 2,
+      "NoMFPosetive": null
+    },
+    {
+      "districtId": 20,
+      "districtName": "Nanded",
+      "mapDistrictId": "511",
+      "NoOfLFCases": 455,
+      "NoOfHydroceleCases": 4,
+      "NoMFPosetive": 22
+    },
+    {
+      "districtId": 21,
+      "districtName": "Nandurbar",
+      "mapDistrictId": "497",
+      "NoOfLFCases": 223,
+      "NoOfHydroceleCases": 443,
+      "NoMFPosetive": 222
+    },
+    {
+      "districtId": 22,
+      "districtName": "Nashik",
+      "mapDistrictId": "516",
+      "NoOfLFCases": 234,
+      "NoOfHydroceleCases": 233,
+      "NoMFPosetive": 4
+    },
+    {
+      "districtId": 23,
+      "districtName": "Osmanabad",
+      "mapDistrictId": "525",
+      "NoOfLFCases": 332,
+      "NoOfHydroceleCases": 3,
+      "NoMFPosetive": 2
+    },
+    {
+      "districtId": 24,
+      "districtName": "Palghar",
+      "mapDistrictId": "709",
+      "NoOfLFCases": 654,
+      "NoOfHydroceleCases": 4,
+      "NoMFPosetive": 3
+    },
+    {
+      "districtId": 25,
+      "districtName": "Parbhani",
+      "mapDistrictId": "513",
+      "NoOfLFCases": 876,
+      "NoOfHydroceleCases": 4,
+      "NoMFPosetive": 2
+    },
+    {
+      "districtId": 26,
+      "districtName": "Pune",
+      "mapDistrictId": "521",
+      "NoOfLFCases": 466,
+      "NoOfHydroceleCases": 4,
+      "NoMFPosetive": 2
+    },
+    {
+      "districtId": 27,
+      "districtName": "Raigarh",
+      "mapDistrictId": "520",
+      "NoOfLFCases": 843,
+      "NoOfHydroceleCases": 43,
+      "NoMFPosetive": 2
+    },
+    {
+      "districtId": 28,
+      "districtName": "Ratnagiri",
+      "mapDistrictId": "528",
+      "NoOfLFCases": 258,
+      "NoOfHydroceleCases": 44,
+      "NoMFPosetive": 2
+    },
+    {
+      "districtId": 29,
+      "districtName": "Sangli",
+      "mapDistrictId": "531",
+      "NoOfLFCases": 238,
+      "NoOfHydroceleCases": 4,
+      "NoMFPosetive": 2
+    },
+    {
+      "districtId": 30,
+      "districtName": "Satara",
+      "mapDistrictId": "527",
+      "NoOfLFCases": 4,
+      "NoOfHydroceleCases": 2,
+      "NoMFPosetive": 11
+    },
+    {
+      "districtId": 31,
+      "districtName": "Sindhudurg",
+      "mapDistrictId": "529",
+      "NoOfLFCases": 248,
+      "NoOfHydroceleCases": 44,
+      "NoMFPosetive": 1
+    },
+    {
+      "districtId": 32,
+      "districtName": "Solapur",
+      "mapDistrictId": "526",
+      "NoOfLFCases": 974,
+      "NoOfHydroceleCases": 44,
+      "NoMFPosetive": 2
+    },
+    {
+      "districtId": 33,
+      "districtName": "Thane",
+      "mapDistrictId": "517",
+      "NoOfLFCases": 93,
+      "NoOfHydroceleCases": 4,
+      "NoMFPosetive": 2
+    },
+    {
+      "districtId": 34,
+      "districtName": "Wardha",
+      "mapDistrictId": "504",
+      "NoOfLFCases": 246,
+      "NoOfHydroceleCases": 45,
+      "NoMFPosetive": 2
+    },
+    {
+      "districtId": 35,
+      "districtName": "Washim",
+      "mapDistrictId": "502",
+      "NoOfLFCases": 246,
+      "NoOfHydroceleCases": 24,
+      "NoMFPosetive": 23
+    },
+    {
+      "districtId": 36,
+      "districtName": "Yavatmal",
+      "mapDistrictId": "510",
+      "NoOfLFCases": 965,
+      "NoOfHydroceleCases": 43,
+      "NoMFPosetive": 2
+    }
+  ],
+  "message": "Success"
+}

@@ -1,0 +1,64 @@
+export interface EntomologicalLarvicidal {
+  id?: any;
+  year: string;
+  month: any;
+  typeOfUnit: string;
+  nameOfUnit: string;
+  districtId: any;
+  talukaId: string;
+  facilityId: string;
+  subCenterId: string;
+  villageId: string;
+  town: string;
+  dateOfSurvey?: any;
+  fixedOrRandom: string;
+  totalTimeSpentHrs: any;
+  totalTimeSpentMinutes: any;
+  mosqDissectedCulexQui: any;
+  totalNoPositiveMosq1to3Stage: any;
+  totalNoPositiveMosq3Stage: any;
+  breedingPlacesChecked: string;
+  totalNoOfDipsTaken: any;
+  noOfPosVePlaceIIIandIVStage: any;
+  noOfPosVePlaceForPupae: any;
+  totalCulexLarvaeCount1to4Stage: any;
+  totalCulexPupaeCount: any;
+  totalAnLarvaeCount: any;
+  noOfWellsBioControl: any;
+  noOfTankBioControl: any;
+  noOfCanalsBioControl: any;
+  noOfLocGuppyIntro: any;
+  noOfPendingLocTreatment: any;
+  noOfVentPipesCovered: any;
+  larvicideNameId: number;
+  measurement: String;
+  openingBalance: any;
+  receivedDuringMonth: any;
+  consumedDuringMonth: any;
+  balanceEndOfMonth: any;
+  noOfMenWorkingSFW: any;
+  noOfMenWorkingFW: any;
+  canalisationWork: any;
+  desiltingWork: any;
+  deweedingWork: any;
+  fillingWork: any;
+  otherWork: any;
+  isActive?: boolean;
+  createdBy?: number;
+  lastModifiedBy?: number;
+  entomologicalDataCounts: Array<entomologicalDataCounts>;
+}
+
+export interface entomologicalDataCounts {
+  id?: number;
+  entomologicalLarvicidalListId?: number;
+  mosquitoTypeId: number;
+  noOfMosquitoCollectedMale: number;
+  noOfMosquitoCollectedFemale: number;
+  noOfMosquitoCollectedTotal: number;
+  density: number;
+  densityOther: number;
+  isActive?: boolean;
+  createdBy?: number;
+  lastModifiedBy?: number;
+}
